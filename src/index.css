@@ -45,6 +45,7 @@ header {
   justify-content: center;
   align-items: center;
   gap: 2vh;
+  text-align: center;
 }
 
 header h1 {
