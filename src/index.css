@@ -125,3 +125,9 @@ form .done {
   text-align: center;
   font-size: 4vw;
 }
+
+@media screen and (max-width: 800px) {
+  .container {
+    flex-direction: column;
+  }
+}
