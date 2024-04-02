@@ -38,7 +38,6 @@ function InputEdu({ info, onAddInput }) {
         placeholder="Education Archievement"
         onChange={onAddInput}
       />
-      <button>add</button>
     </div>
   );
 }
